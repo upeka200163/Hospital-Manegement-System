@@ -3,7 +3,7 @@
 A modern, responsive, and interactive landing page designed for a hospital management system. This project aims to provide a seamless user experience for patients to explore hospital services, view doctor profiles, and easily book medical appointments online.
 
 ## 🚀 Live Demo
-*(Insert your live hosted link here, e.g., GitHub Pages link)*
+https://upeka200163.github.io/Hospital-Manegement-System/
 
 ## ✨ Key Features
 * Interactive Appointment Booking: A custom-built, animated popup modal that allows users to seamlessly fill out appointment details.
