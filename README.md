@@ -25,5 +25,5 @@ A modern, responsive, and interactive landing page designed for a hospital manag
 Clone the repository:
 
 Bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone: https://github.com/upeka200163/Hospital-Manegement-System.git
 
